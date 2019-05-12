@@ -1,1 +1,1 @@
-#Analysis and visualization of solar flares
+Analysis and visualization of solar flares
