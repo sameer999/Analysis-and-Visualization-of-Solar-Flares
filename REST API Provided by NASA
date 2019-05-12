@@ -1,3 +1,0 @@
-https://api.nasa.gov/neo/rest/v1/feed?start_date=2018-09-07&end_date=2018-09-08&api_key=aj8Is1AxDCj38b0ytk3H23iKjzlyaTZCBLRzXLEW
-This is the link where the data is available about asteroids you can find the attributes and whether the asteroid is potentially hazardous 
-or not classified by NASA. The data is in the Json format and we use python to parse the json and kepp it in csv.
